@@ -17,5 +17,13 @@
 ###### 11.1. Object Detection Model: Model(yolov5) will detect the vehicles, person and traffic signs alomng with the traffic light on the road.
 ###### 11.2. Depth Model: Model(monodepth2) will calculate the depth of the frame to calculate the distance to other objects.
 
+<br />
+<br />
+<br />
+<br />
+###########################################################################################################
+
 ###### NOTE: This is just for trial purpose if you need complete code then you can contact me on my gmail(guptagagan824@gmail.com).
+
+###########################################################################################################
 
